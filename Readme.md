@@ -11,7 +11,7 @@ output: html_document
 
 For the 1st section we try to download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip it.
 
-At the 2nd section we try to load the train dataset from x_train,Y_train, and subject_train data and merge it into 1 dataset.
+At the 2nd section we try to load the train dataset from x_train,Y_train, and subject_train data and merge it into 1 dataset. Also, the measure mean is to extract sd and mean.
 
 At the 3rd section we try to load the test dataset from x_test, Y_test, and subject_test and merge it int 1 dataset.
 
