@@ -7,7 +7,7 @@ output: html_document
 
 
 
-## R Markdown
+## Module 3_Assignment Project_Coursera.R
 
 For the 1st section we try to download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip it.
 
@@ -21,3 +21,7 @@ At the 5th we try to convert the data
 
 At the last we try to write/generate the data to new file 
 
+## Code Book
+For 1st the subject identity
+2nd all the measurement
+3rd the code
